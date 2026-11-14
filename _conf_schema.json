@@ -1,0 +1,8 @@
+{
+  "enable_button_menu": {
+    "description": "启用按钮菜单",
+    "type": "bool",
+    "default": true,
+    "hint": "关闭后，「按钮菜单」指令不再响应；WebUI 配置仍可打开。"
+  }
+}
