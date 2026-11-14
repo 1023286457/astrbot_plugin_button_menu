@@ -4,7 +4,7 @@
 
 # 🧰 QQ官机按钮菜单
 
-**AstrBot QQ官机菜单面板：在 WebUI 可视化配置 `/Astrbot菜单` 的按钮、发送文字/图片/链接、分页布局、生效机器人与分页预览。**
+**QQ官机菜单面板插件：在 WebUI 可视化配置 `/Astrbot菜单` 的按钮、发送文字/图片/链接、分页布局、生效机器人与分页预览。**
 
 [![版本 1.0.0](https://img.shields.io/badge/版本-1.0.0-89b4fa.svg)](CHANGELOG.md)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
