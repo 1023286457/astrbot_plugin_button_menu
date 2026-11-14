@@ -1,0 +1,2 @@
+# astrbot_plugin_button_menu-
+存放Astrbot-QQ官机按钮菜单插件
