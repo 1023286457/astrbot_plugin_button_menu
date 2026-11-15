@@ -26,7 +26,7 @@ except ImportError:  # pragma: no cover - older AstrBot
 
 PLUGIN_NAME = "astrbot_plugin_button_menu"
 PLUGIN_DISPLAY_NAME = "QQ官机按钮菜单"
-PLUGIN_VERSION = "1.0.0"
+PLUGIN_VERSION = "1.0.1"
 QQ_BOT_PLATFORMS = {
     "qq_official",
     "qq_official_webhook",

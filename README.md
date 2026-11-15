@@ -6,7 +6,7 @@
 
 **QQ官机菜单面板插件：在 WebUI 可视化配置 `/Astrbot菜单` 的按钮、发送文字/图片/链接、分页布局、生效机器人与分页预览。**
 
-[![版本 1.0.0](https://img.shields.io/badge/版本-1.0.0-89b4fa.svg)](CHANGELOG.md)
+[![版本 1.0.1](https://img.shields.io/badge/版本-1.0.1-89b4fa.svg)](CHANGELOG.md)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![作者 简单么么熊](https://img.shields.io/badge/作者-简单么么熊-f5b7c7.svg)](https://github.com/1023286457)
 [![QQ群 1081896895](https://img.shields.io/badge/QQ群-1081896895-12B7F5.svg)](https://qm.qq.com/q/LWmwpA9kuk)
@@ -140,7 +140,7 @@ WebUI 的「生效机器人」支持：
 
 **发了 `/Astrbot菜单` 没反应？**
 
-确认插件版本是 `1.0.0` 并已重载；确认旧群管插件没有占用同名指令。
+确认插件版本是 `1.0.1` 并已重载；确认旧群管插件没有占用同名指令。
 
 **按钮点击没有反应？**
 
